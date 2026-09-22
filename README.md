@@ -47,6 +47,6 @@
 
 ### 📫 Connect With Me
 
-- **Portfolio:** [Your Portfolio Website](https://github.com/dmplabon)
-- **LinkedIn:** [linkedin.com/in/dmplabon](https://linkedin.com)
-- **Email:** your-email@example.com
+- **Portfolio:** [DMPlabon](https://plabon.app)
+- **LinkedIn:** [linkedin.com/in/plabon0001](https://www.linkedin.com/in/plabon0001/)
+- **Email:** digitalmarketerplabon@gmail.com
