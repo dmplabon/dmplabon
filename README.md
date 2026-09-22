@@ -1,31 +1,60 @@
-<h1 align="center">Hi, I'm Dipanjan 👋</h1>
-<p align="center">
-  Building useful things with clean code and curiosity.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dmplabon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <h1>Hi there, I'm Salim Mahmud Plabon 👋</h1>
 
-## 🚀 About Me
-- 💻 I enjoy turning ideas into reliable software
-- 🌱 Always learning and exploring better engineering practices
-- 🤝 Open to collaborating on meaningful projects
+  <p><strong>Digital Marketer & Front-End Web Developer</strong></p>
+  <p>Bridging performance-driven marketing strategies with clean, responsive web solutions.</p>
 
-## 🧰 Tech Stack
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=dmplabon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+- 💻 **Front-End Development:** Building responsive, fast-loading interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
+- 📈 **Digital Marketing & Analytics:** Specializing in data-backed campaign scaling, Meta Ads, SEO optimization, and conversion tracking (Pixel & Server-Side).
+- 🎯 **Focus:** Merging marketing architecture with technical implementation to maximize conversions and user retention.
+- 🤝 **Collaboration:** Open to working on web projects, landing page optimization, and growth marketing initiatives.
+
+---
+
+### 🧰 Tech & Tools
+
+**Frontend & Web Development**
 <p>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📊 GitHub Stats
+**Marketing & Analytics**
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dmplabon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmplabon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Meta_Ads-0466C8?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/SEO-20B2AA?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/Conversion_Tracking-4CAF50?style=for-the-badge&logo=target&logoColor=white" alt="Tracking" />
 </p>
 
-## 📫 Connect
-- GitHub: [@dmplabon](https://github.com/dmplabon)
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dmplabon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmplabon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- **Portfolio:** [Your Portfolio Website](https://github.com/dmplabon)
+- **LinkedIn:** [linkedin.com/in/dmplabon](https://linkedin.com)
+- **Email:** your-email@example.com
